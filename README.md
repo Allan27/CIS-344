@@ -1,2 +1,1 @@
-# CIS-344
-has ER diagr..
+This database system is designed for a Freelance Writer Portfolio mini world. The system models how freelance writers manage portfolios, clients, writing samples, projects, and payments. It demonstrates database design concepts including requirement gathering, ER modeling, and database implementation using MySQL.
