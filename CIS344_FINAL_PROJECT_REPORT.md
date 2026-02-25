@@ -1,7 +1,7 @@
 # CIS 344: Database Design Project
 ## Freelance Writer Portfolio Database Management System
 
-**Student**: tophat-queen  
+**Student**: Allan Pinedo
 **Course**: CIS 344 - Database Design  
 **Semester**: Spring 2026  
 **Instructor**: Prof. Yanilda Peralta Ramos  
